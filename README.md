@@ -13,5 +13,5 @@ It includes the following sections :
 ## Screenshots
 
 ![Hero](./screenshots/Hero.png)
-![Pricing](./screenshots/Pricing.png)!
-[Testimonials](./screenshots/Testimonials.png)
+![Pricing](./screenshots/Pricing.png)
+![Testimonials](./screenshots/Testimonials.png)
